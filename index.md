@@ -39,6 +39,13 @@ Aquí una muestra de este trabajo.
 
 ![reporte capacitaciones affari](assets/img/affari.jpg)
 
+## Reporte ingresos de empresa
+
+En la siguiente muestra se puede ver un reporte sobre el analisis de ingresos para una empresa, esta empresa trabaja por medio de proyectos, entonces es interesante conocer y segmentar los canales de mayor ingresos y utilidad para el negocio.
+
+![reporte ingresos](assets/img/trascender_dashboard1.jpg)
+
+
 # Contacto
 
 - Correo: dicana27@gmail.com
