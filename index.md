@@ -12,7 +12,10 @@ Aquí podras encontrar una muestra de mi trabajo en temas de ciencia de datos, a
 
 ## Muestra PowerBi Trascender Global
 
-- To do
+Hice un live con una startup que trabajé! 
+Ahi mostramos en la comunidad sobre el uso de PowerBi para hacer Dashboards. Puedes ver la grabación de ese live dando click en este [enlace en línea](https://www.youtube.com/watch?v=Oy1beA81fwM)
+
+![video PowerBi](assets/img/trascender.jpg)
 
 ## Dashboard Chile
 
