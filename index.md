@@ -32,6 +32,12 @@ En un proyecto freelancer para un cliente chileno, tuve que realizar el informe 
 
 ![reporte capacitaciones](assets/img/Dasboard%20capacitaciones.jpg)
 
+## Análisis de cartera de clientes, microfinanciera
+
+Aquí analizo los datos de una microfinanciera, cuantos creditos ha logrado desembolsar, con que valor promedio y segmentar por otras caracteristicas para conocer mejor el perfil del cliente.
+Aquí una muestra de este trabajo.
+
+![reporte capacitaciones affari](assets/img/affari.jpg)
 
 # Contacto
 
