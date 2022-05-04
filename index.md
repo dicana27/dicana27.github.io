@@ -17,13 +17,17 @@ Ahi mostramos en la comunidad sobre el uso de PowerBi para hacer Dashboards. Pue
 
 ![video PowerBi](assets/img/trascender.jpg)
 
-## Dashboard Chile
-
-- To do
 
 ## Dashboard Presupuesto
  
-- To do
+![Reporte presupuesto](assets/img/casa_andina.jpeg)
+
+## Reporte sobre estado de capacitaciones
+
+En un proyecto freelancer para un cliente chileno, tuve que realizar el informe dinamico y visual para medir el porcentaje de cumplimiento de capacitaciones por departamentos y areas. A continuación puedes ver una muestra de ese reporte
+
+![reporte capacitaciones](assets/img/Dasboard%20capacitaciones.jpg)
+
 
 # Contacto
 
