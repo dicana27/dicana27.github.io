@@ -10,7 +10,7 @@ Soy profesional en Administración de Empresas de la Universidad de Nariño, ten
 
 Aquí podras encontrar una muestra de mi trabajo en temas de ciencia de datos, análisis y visualización de información
 
-## Muestra PowerBi Trasnceder Global
+## Muestra PowerBi Trascender Global
 
 - To do
 
@@ -18,7 +18,7 @@ Aquí podras encontrar una muestra de mi trabajo en temas de ciencia de datos, a
 
 - To do
 
-## Dashboard Presupuestp
+## Dashboard Presupuesto
  
 - To do
 
