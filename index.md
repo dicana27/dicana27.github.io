@@ -48,4 +48,7 @@ En la siguiente muestra se puede ver un reporte sobre el analisis de ingresos pa
 
 # Contacto
 
-- Correo: dicana27@gmail.com
+Si crees que te puedo apoyar en algun proyecto o asesoria, no dudes en contactarme.
+Aquí te dejo mi correo personal dicana27@gmail.com
+
+Estamos a un mensaje de distancia.
